@@ -4,7 +4,7 @@
     https://fonts.google.com/
     
   ----------------------------------------------------------------------- */
-  @import url(https://fonts.googleapis.com/css?family=Open+Sans:700,600,400,300);
+  @import url(https://fonts.googleapis.com/css2?family=Oswald&family=PT+Serif:wght@700&display=swap);
 
   /* --------------------------------------------------------------------
   
@@ -13,10 +13,10 @@
   
   ---------------------------------------------------------------------- */
   :root {
-      --color-lightest: #ffcdcd;
-      --color-light: #ee6c6c;
-      --color: #EC6565;
-      --color-dark: #ca4e4e;
+      --color-lightest: #ddb6fc;
+      --color-light: #9c6ff0;
+      --color: #655ecd;
+      --color-dark: #392691;
       --font: "Open Sans", Helvetica, sans-serif;
   }
 
